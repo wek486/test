@@ -1,4 +1,18 @@
+<div align="center">
+
 # Exix · 画师图片互动社区
+
+从发现作品到创作发布，体验一个完整的图片社区前端演示。
+
+![Vue 3](https://img.shields.io/badge/Vue%203-42b883?style=flat-square) ![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square) ![离线演示](https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF%E6%BC%94%E7%A4%BA-64748b?style=flat-square)
+
+</div>
+
+---
+
+<p align="center"><img src="./public/art/work-1.svg" alt="项目本地示例画作 1" width="30%">&nbsp;<img src="./public/art/work-2.svg" alt="项目本地示例画作 2" width="30%">&nbsp;<img src="./public/art/work-3.svg" alt="项目本地示例画作 3" width="30%"></p>
+
+图片为项目已有示例素材。当前版本使用本地模拟服务，详细运行步骤、演示账号和限制如下。
 
 Vue 3 + JavaScript + Vite + Element Plus + Vue Router + Pinia 的前端演示项目。
 
